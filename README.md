@@ -2,7 +2,7 @@
 
 ## Description
 This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
-This Prework Study Guide is my very first project and part of the prework assigment of the coding bootcamp
+This Prework Study Guide is my very first project and part of the prework assigment of the coding bootcamp.
 
 I am very excited to learn and practice more about coding and reach that level where I can start my own business in the future or simply to be part of a great team in a great company.
 
